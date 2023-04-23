@@ -1,0 +1,128 @@
+.slide01{
+    background-image: url('../img/slide-01.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.slide02{
+    background-image: url('../img/slide-02.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.slide03{
+    background-image: url('../img/slide-03.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.b-1{
+    height: 20vh;
+}
+
+.p-b button{
+    border: none;
+    background-color: transparent;
+    
+}
+
+
+/* shoping table */
+
+.table-shopping-cart {
+    /* border-collapse: collapse; */
+    width: 100%;
+    min-width: 680px;
+  }
+  
+  .table-shopping-cart tr {
+    border-top: 1px solid #e6e6e6;
+    border-bottom: 1px solid #e6e6e6;
+  }
+  
+  .table-shopping-cart .column-1 {
+    width: 133px;
+    padding-left: 50px;
+  }
+  
+  .table-shopping-cart .column-2 {
+    width: 220px;
+    font-size: 15px;
+  }
+  
+  .table-shopping-cart .column-3 {
+    width: 120px;
+    font-size: 16px;
+  }
+  
+  .table-shopping-cart .column-4 {
+    width: 145px;
+    text-align: right;
+  }
+  
+  .table-shopping-cart .column-5 {
+    width: 172px;
+    padding-right: 50px;
+    text-align: right;
+    font-size: 16px;
+  }
+  
+  .table-shopping-cart .table_row {
+    height: 185px;
+   
+  }
+  
+  .table-shopping-cart .table_row td {
+    padding-bottom: 20px;
+  }
+  
+  .table-shopping-cart .table_row td.column-1 {
+    padding-bottom: 30px;
+  }
+  
+  .table-shopping-cart .table_head th {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    color: #555;
+    text-transform: uppercase;
+    line-height: 1.6;
+    padding-top: 15px;
+    padding-bottom: 15px;
+  }
+  
+  .table-shopping-cart td {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #555;
+    line-height: 1.6;
+  }
+  
+
+
+
+
+.bg-1{
+    background-image: url('../img/bg-01.jpg.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+
+
+
+
+
+
+
+
+  /* foooter */
+footer div ul li a {
+    text-decoration: none;
+    color:#313131;
+
+}
+
+footer
+{
+    line-height: 2rem;
+}
